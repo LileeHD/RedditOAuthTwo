@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditOAuthTwo</string>
+    <string name="login">login</string>
+    <string name="response">Response</string>
+</resources>
